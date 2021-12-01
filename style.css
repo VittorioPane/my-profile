@@ -1,0 +1,190 @@
+body {
+    background: #F7F9FC;
+    color: #6e400c;
+    font-family:'Cavolini';
+    font-size: 16px;
+    font-weight: lighter;
+}
+
+h1 {
+    font-family: 'Cavolini';
+}
+
+h1 {
+    color: black;
+    font-size: 30px;
+    font-weight: 500;
+    font-family: 'Cavolini';
+}
+
+
+
+h2 {
+    color: red;
+    font-size: 24px;
+    font-weight: lighter;
+    font-weight: 500;
+}
+
+a {
+   font-family: 'segoe', sans-serif;
+   text-decoration: none;
+   color: #6872E1;
+   font-weight: 600;
+   font-style: 16px;
+}
+a:hover {
+    color: black;
+}
+
+.container{
+    width: 700px;
+    margin: 40px auto;
+}
+
+@media(max-width: 750px){
+    .container{ 
+        width: 600px;
+     }
+}
+@media(max-width: 500px){ 
+    .container{
+        width: 400px;
+    }
+}
+.card-white{
+    background-color: #f5c4e2;
+    padding: 45px;
+    box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+    border-radius: 5px;
+    margin: 20px 0px;
+    text-align: center;
+}p
+
+
+.img-circle {
+	border-radius: 50%;
+}
+
+.btn-blue{ 
+    background-color: skyblue;
+    color: white;
+    padding: 15px 20px;
+    border-radius: 5px;
+ }
+.btn-blue:hover{
+    background-color: black;
+    color: white;
+}
+
+.list-inline{ 
+    list-style: none;
+    padding-left: 0px;
+ }
+
+.list-inline li{ 
+    display: inline;
+    padding: 10px;
+ }
+
+.list-inline i{ 
+    font-size: 50px;
+    color: rgb(230, 230, 230);
+ }
+
+.list-inline i:hover{ 
+    color: black;
+ }
+
+
+
+p { 
+   color: black;
+   font-size: 20px;
+   font-weight: 300;
+   font-family: 'Verdana';
+ }
+
+
+
+li { 
+   color: blue;
+   font-size: 20px;
+   font-weight: 300;
+ }
+
+
+
+
+
+#introduction p{ 
+    margin-bottom: 40px;
+ }
+
+div { 
+   background: white;
+   border: 6px skyblue;
+ }
+
+
+.img-circle { 
+   border-radius: 50%;
+   
+ }
+
+
+.shadowed { 
+  box-shadow: 4px 4px 3px skyblue;
+ }
+
+
+.img { 
+   size: 50px 50px;
+ }
+
+
+
+.btn-insta{ 
+    background-color: skyblue;
+    color: white;
+    padding: 15px 20px;
+    border-radius: 5px;
+ }
+.btn-insta:hover{
+    background-color: black;
+    color: white;
+}
+
+.btn-facebook{ 
+    background-color: skyblue;
+    color: white;
+    padding: 15px 20px;
+    border-radius: 5px;
+ }
+
+.btn-facebook:hover{ 
+   background-color: black;
+   color: white;
+ }
+
+
+
+
+
+/* Custom design with class */
+.container { 
+  width: 700px;
+  margin: 40px auto;
+ }
+.card-white {
+	background-color: white;
+    padding: 40px;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+    margin: 20px 0px;
+ }
+
+
+
+
+
